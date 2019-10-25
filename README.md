@@ -17,3 +17,7 @@ Se puede iniciar el servidor desde la carpeta raíz del proyecto escribiendo:
 También se puede correr el `script` de `npm` escribiendo:
 
     npm run dev
+
+Para instalar las dependencias, desde la carpeta raíz del proyecto ejecutar:
+
+    npm install
